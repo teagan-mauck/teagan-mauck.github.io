@@ -1,4 +1,4 @@
-## Photogrammar Review
+
 **Project name: Photogrammar** 
 
 **Project Director: Laura Wexler**
@@ -17,7 +17,7 @@ This 3-part interactive project focuses on a mapping project, which organizes ph
 
 The classification system was originally implemented in 1942, but exists in a digital form as part of the project. This allows audiences to look through the photo collection based on themes, such as [homes and living conditions](http://photogrammar.yale.edu/labs/treemap/). Not every photo has the same amount of information, and some tagged locations vary dramatically from where originally listed. 
 
-Unfortunately, Photogrammar's progress has been halted indefinitely. Its corresponding blog hasn't been updated since 2013, and there are two half-finished projects within Photogrammar. [These two projects](http://photogrammar.yale.edu/labs/) would have given new audiences a chance to interact with photo characteristics and metadata in new ways. I enjoyed exploring the different relationships between photographers and their subjects in California via the now-abandoned Metadata Dashboard, and wish this project in particular had developed more. The Metadata Dashboard was also aesthetically pleasing, whereas the rest of the project was very straightforward, but incredibly plain. 
+Unfortunately, Photogrammar's progress has been halted indefinitely. There are two other half-finished projects within Photogrammar, and the corresponding blog hasn't been updated since 2013. [These two projects](http://photogrammar.yale.edu/labs/) would have given new audiences a chance to interact with photo characteristics and metadata in unique and exciting ways. I enjoyed exploring the different relationships between photographers and their subjects in California via the now-abandoned Metadata Dashboard, and wish this project in particular had developed more. The Metadata Dashboard was also aesthetically pleasing, whereas the rest of the project was very straightforward, but incredibly plain. 
 
 ![MetadataDashboard](https://teagan-mauck.github.io/images/MetadataCA.jpg)
 
@@ -25,7 +25,7 @@ This project includes hyperlinks that connect audiences to an even larger collec
 
 The only link in the entire project that does not work is the link to the Primary Investigator’s professional page via Yale University. I have a feeling that she no longer works for the university, which is also why this project is at a standstill. However, there are seven other people listed as contributors, so hopefully this project will continue to develop at some point in the future. 
 
-Although pictures speak a thousand words, I wish this project had more information about the history of the Farm Security Administration/Office of War Information, and about the photographers themselves. These photographers have taken photos that the general public associates with hard times and resiliency, and including their personal experiences would add another dimension to this project. 
+Although pictures speak a thousand words, I wish this project had more information about the history of the Farm Security Administration/Office of War Information, and about the photographers themselves. These photographers have taken photos that the general public associates with hard times and resiliency, and including their personal experiences would add another dimension to this project. As a whole, Photogrammar is a fascinating project that brings new audiences to old photos of a crucial part of America's history. 
 
 
 
