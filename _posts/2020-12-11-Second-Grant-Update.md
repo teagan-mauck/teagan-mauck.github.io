@@ -8,7 +8,7 @@ As mentioned before, my project is an interactive map that follows the seven cou
 Due to rather odd circumstances, I was on a plane for a combined 8 hours right after Thanksgiving, which gave me a dedicated amount of time to work on my grant with no distractions. I finished my bibliography, perfected my environmental scan, and wrote about 80% of my grant narrative. I kept overthinking the grant narrative and environmental scan, which led me to procrastinate and further fueled my anxiety. The grant project seemed really daunting, but dedicating most of the day to writing and having nothing else to do helped ease my anxiety. 
 
 
-![EarlierTweets](https://teagan-mauck.github.io/images/Screenshot(4).png)
+![EarlierTweets](https://teagan-mauck.github.io/images/Screenshot (4).png)
 
 I was looking back on tweets from earlier this semester, and laughed at the progression of brainstorming, excitement, and pure panic that was this grant writing process. 
 
